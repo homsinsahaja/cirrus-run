@@ -1,7 +1,10 @@
 # Cirrus Run — Island Hopper
 
-A 3D bush-plane flight game in a golden-hour island archipelago, built with
-Three.js (vendored, no network). Fly the cream-and-red bush plane out of a
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/homsinsahaja/cirrus-run/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/homsinsahaja/cirrus-run/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
+An entry in [make.fun's "Make the best flight game" bounty](https://make.fun/bounty/best-flight-game-20261126-0057) — a 3D bush-plane flight game in a golden-hour island archipelago, built with Three.js (vendored, no network). Fly the cream-and-red bush plane out of a
 lagoon airfield, thread the glowing rings, watch the fuel, and put her down
 soft on runway 09.
 
